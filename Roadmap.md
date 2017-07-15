@@ -1,0 +1,7 @@
+- Adding simple chord detection algorithm based on numpy first then adding it tensorflow
+- Adding multiple audio format data parsing
+- Adding support for gp5 files
+- VST rendering for the MIDI instrument - in Linux might not be possible may just to be used in Ubuntu
+- Instrument synthesis 
+- Prebuild data sets
+- Instrument sengmenation
