@@ -14,5 +14,8 @@ Resources:
 - https://www.coursera.org/learn/neural-networks One the definitive resource learn about Deep Learning. Good resource for intermediate people. I feel the explanation can be bit better but still worth looking into them.
 - http://neuralnetworksanddeeplearning.com/ Best place to start DL very well explained for beginner level audience.
 - http://course.fast.ai/ Very good course on deep learning. Essential to go through
+- https://www.coursera.org/learn/audio-signal-processing This has nothing to do with ML but has everything to do with Audio processing. Must complete course to get strated.
+- https://books.google.co.in/books?id=2pK_DQAAQBAJ This is the book which describes all the problems very correctly which we face while create a audio processing/generation library
+- https://books.google.co.in/books?id=fEsZ3Ey-Hq4C Very good book to find ideas for building some cool audio IR system 
 
 Dataset:
