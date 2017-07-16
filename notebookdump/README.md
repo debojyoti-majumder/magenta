@@ -7,7 +7,12 @@ Guidelines:
 - We are not using forks, new users are added as colaborator to the code base.
 - For any specific task request/question/clearfication create an issue in main repo.
 - The resources are added in no perticular order, go through based on your skills but it is expected the contibutor have gone through all of them(in some time span) 
+- We lack a lot about standard dataset as of now. Anybody who finds any data set related to audio please add in the data set section.
 
 Resources: 
 - https://www.coursera.org/learn/machine-learning The most widely used ML resource, very useful to get started
-- https://www.coursera.org/learn/neural-networks One the definitive resource learn about Deep Learning. Good resource for intermediate people. I feel the explanation can be bit better but still worth looking into them  
+- https://www.coursera.org/learn/neural-networks One the definitive resource learn about Deep Learning. Good resource for intermediate people. I feel the explanation can be bit better but still worth looking into them.
+- http://neuralnetworksanddeeplearning.com/ Best place to start DL very well explained for beginner level audience.
+- http://course.fast.ai/ Very good course on deep learning. Essential to go through
+
+Dataset:
