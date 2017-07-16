@@ -4,4 +4,10 @@ Guidelines:
 - Prefix your name/githib handel and then the notebook name. 
 - Please add data collection step and try to automate that in notebook.
 - Feel free to edit someone's notebook to add some findings.
-- We are not using forks, new users are added as colaborator to the code base
+- We are not using forks, new users are added as colaborator to the code base.
+- For any specific task request/question/clearfication create an issue in main repo.
+- The resources are added in no perticular order, go through based on your skills but it is expected the contibutor have gone through all of them(in some time span) 
+
+Resources: 
+- https://www.coursera.org/learn/machine-learning The most widely used ML resource, very useful to get started
+- https://www.coursera.org/learn/neural-networks One the definitive resource learn about Deep Learning. Good resource for intermediate people. I feel the explanation can be bit better but still worth looking into them  
