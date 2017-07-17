@@ -20,3 +20,4 @@ Resources:
 - https://www.kadenze.com/ A goto place for any creative computer application MOOC, always visit this keep an eye about whats going on
 
 Dataset:
+- Last.fm dataset https://labrosa.ee.columbia.edu/millionsong/lastfm
