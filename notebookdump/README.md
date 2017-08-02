@@ -21,3 +21,4 @@ Resources:
 
 Dataset:
 - Last.fm dataset https://labrosa.ee.columbia.edu/millionsong/lastfm
+- Music IR dataset: https://ccrma.stanford.edu/workshops/mir2014//audio/
